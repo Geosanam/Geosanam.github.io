@@ -1,10 +1,13 @@
 # Geosanam 🌍
 
-(assets/intro.mp4)
-
 Welcome to my portfolio!  
 This website is a space to showcase my **geospatial skills, projects, research, and interests**.  
 I also share my thoughts and experiences through blogs.  
+
+---
+
+## 🎥 Intro Video
+[▶ Watch my intro video](assets/intro.mp4)
 
 ---
 
