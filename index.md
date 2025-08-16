@@ -1,6 +1,6 @@
 # Geosanam 🌍
 
-(assets/I just love my job Portfolio.mp4)
+(assets/I%20just%20love%20my%20job%20Portfolio.mp4)
 
 Welcome to my portfolio!  
 This website is a space to showcase my **geospatial skills, projects, research, and interests**.  
